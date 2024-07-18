@@ -1,1 +1,1 @@
-# Othello_Ai
+# Go_Ai
